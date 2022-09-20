@@ -1,0 +1,30 @@
+.heading
+{
+ width: 100%;
+ margin: 0px;
+ font-size: 22px;
+ text-align: left;
+}
+
+.button 
+{
+    background-color: white;
+}
+
+canvas {
+    border: 5px solid white;
+    margin-top: 10px;
+    box-shadow: 5px 5px white;
+    margin-left: 415px;
+    border-radius: 20px;
+}
+
+.heading h3 {
+    display: inline;
+    margin-left: 30px;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
